@@ -1,9 +1,13 @@
-I decided to learn how to build a basic calculator in React, this project uses [React Semantic UI](https://react.semantic-ui.com/) for styling.
+I decided to learn how to build a basic calculator in React.
 
-TODO
+## TODO
+
 * make the decmeial point work
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools
+
+* This project uses [React Semantic UI](https://react.semantic-ui.com/) for styling.
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
