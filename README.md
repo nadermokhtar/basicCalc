@@ -2,14 +2,16 @@ I decided to learn how to build a basic calculator in React.
 
 ## TODO
 
-* make the decmeial point work
+- make the decimal point work
 
-## Tools
+## Tools used
 
-* This project uses [React Semantic UI](https://react.semantic-ui.com/) for styling.
-* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project uses [React Semantic UI](https://react.semantic-ui.com/) for styling.
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Run the app
+
+Clone the repo locally.
 
 In the project directory, you can run:
 
