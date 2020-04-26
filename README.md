@@ -1,5 +1,9 @@
 I decided to learn how to build a basic calculator in React.
 
+Version 1:
+
+![Version 1][v1.png]
+
 ## TODO
 
 - make the decimal point work
